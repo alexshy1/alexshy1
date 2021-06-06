@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola! 👋
 
-<!--
-**alexshy1/alexshy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💯 ¿ Quien Soy ?
+#### Soy Alexs, un programador novato autodidacta que lleva 5 años queriendo ser un programador frontend / backend. Actualmente trabajo en la creacion y especializacion de bots de discord.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿ Que Habilidades tengo ?
+#### Dominado
+- ✅ Node.js BackEnd
+- ✅ Python BackEnd
+- ✅ Discord.js
+- ✅ JS Vanilla 
+#### En Estudio
+- ⚜️ MongoDB
+- ⚜️ SQL
+- ⚜️ React / Angular
+- ⚜️ Sass
